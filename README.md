@@ -1,1 +1,1 @@
-# project2
+# Skin Disease Pediction using Machine Learning
